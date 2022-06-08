@@ -1,6 +1,6 @@
 namespace everdale_tracker
 {
-    public class WeatherForecast
+    public class Villager
     {
         public DateTime Date { get; set; }
 
